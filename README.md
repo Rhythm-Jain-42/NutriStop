@@ -19,6 +19,7 @@ This is a MERN (MongoDB, Express, React, Node.js) stack-based web application fo
 - React: A JavaScript library for building user interfaces, used for the front-end development.
 - Node.js: A JavaScript runtime for server-side development.
 - JWT: JSON Web Tokens for secure user authentication.
+- ONDC: Open Network for Digital Commerce Protocol.
 
 
 ## Usage
